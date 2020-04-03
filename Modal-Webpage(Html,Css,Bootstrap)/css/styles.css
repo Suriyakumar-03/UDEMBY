@@ -1,0 +1,168 @@
+body{
+font-family:'Montserrat';
+text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family:'Montserrat-Bold';
+}
+
+p{
+color: #8f8f8f;
+}
+
+
+
+/* for styling section titile */
+
+#title{
+background-color:#ff4c68;
+font-family: 'Montserrat';
+text-align:left;
+}
+.title-alignment{
+padding: 3% 15% 7%;
+}
+/* FOR FIRST TITLE HEADING */
+.heading{
+font-family: 'Montserrat', sans-serif;
+color: #FFFFFF;
+font-size: 3rem;
+line-height: 1.5;
+}
+.section-heading{
+font-size: 3rem;
+line-height: 1.5;
+}
+.containers-fluid{
+ padding: 7% 15%;
+}
+.heading-icon{
+margin-top: 25px;
+margin-left: 20px;
+}
+/* FOR NAVIGATION BAR */
+.navbar{
+padding-bottom: 4.5rem;
+}
+.nav-link{
+padding: 0 10px;
+}
+.navbar-brand{
+font-family: Ubuntu;
+font-size: 2rem;
+font-weight: bold;
+}
+.photo{
+width: 410px;
+}
+
+                /* for background video */
+/* for three-categories in title */
+
+.travel{
+margin-left:.5rem;
+margin-bottom:1.5rem;
+font-weight:bold;
+}
+.WEBSITE-MAKING{
+margin-bottom:0.5rem;
+margin-left:3.5rem;
+font-weight:bold;
+}
+
+.PHOTOGRAPHY{
+display:inline;
+margin-left:8.5rem;
+font-weight:bold;
+}
+
+
+.text{
+background:url(videoplayback_Trim.gif);
+background-size: 650px 200px;
+font-size: 50px;
+font-weight:bold;
+font-family: 'Montserrat', sans-serif;
+-webkit-text-fill-color:transparent;
+-webkit-background-clip:text;
+}
+
+                /* FOR OPTION FEATURES */
+#features{
+}
+.feature-title{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.option{
+
+padding: 5%;
+}
+.symbol{
+color:#ef8172;
+margin-bottom: 1rem;
+}
+.symbol:hover{
+color:#ff4c68;
+}
+
+
+  /* FOR OPTION TESTIMONIALS */
+
+#testimonials{
+background-color:#ef8172;
+
+}
+.testimonials-text{
+font-size:3rem;
+line-height: 1.5;
+}
+.testimonials-founder-image{
+border-radius:100%;
+margin:20px;
+}
+.founders-name{
+font-family:'Montserrat-Bold';
+font-weight: 1.5rem;
+color: #fff;
+}
+        /* FOR PRESS */
+#press{
+background-color:#ef8172;
+padding-bottom: 3%;
+}
+.press-icon{
+width: 15%;
+margin: 7px 15px 10px ;
+}
+
+ /* FOR PRICING AND PLANS SECTION */
+ #pricing{
+padding: 5% 5%;
+}
+.pricing-text{
+font-size:3rem;
+line-height: 1.5;
+}
+.pricing-column{
+padding: 2% 2%;
+}
+ /* FOR cta SECTION */
+ #cta{
+background-color:#ff4c68;
+}
+.app-description{
+color:#fff;
+margin-bottom:7%;
+}
+.app-footer{
+margin-left:3%;
+}
+ /* FOR FOOTER SECTION */
+#footer{
+background-color: #fff;
+}
+.footer-icons{
+margin:15px 7px;
+}
